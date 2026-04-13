@@ -40,6 +40,7 @@ title: "Introduction to Economic Sciences (X)"
 ## PC 3 - International Trade
 
 {{< details "a. vocabulary" >}}
+- [english cheatsheet](/teaching/pc3-vocabulary.pdf)
 {{< /details >}}
 
 {{< details "b. td material" >}}
