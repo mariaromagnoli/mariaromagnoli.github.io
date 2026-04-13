@@ -3,14 +3,14 @@ title: "Introduction to Economic Sciences (X)"
 ---
 
 {{< callout >}}
-- Placeholder bullet point 1
-- Placeholder bullet point 2
-- Placeholder bullet point 3
+**About**
+- Below, resources for the course's TDs.
+- For the micro modules, contact Thomas at [thomas.bombarde@ensae.fr](thomas.bombarde@ensae.fr). For the macro modules, contact Maria at [maria.romagnoli@ensae.fr](maria.romagnoli@ensae.fr).
 {{< /callout >}}
 
 ---
 
-## PC 1
+## PC 1 - 
 
 {{< details "a. vocabulary" >}}
 {{< /details >}}
@@ -23,7 +23,7 @@ title: "Introduction to Economic Sciences (X)"
 
 ---
 
-## PC 2
+## PC 2 -
 
 {{< details "a. vocabulary" >}}
 {{< /details >}}
@@ -36,7 +36,7 @@ title: "Introduction to Economic Sciences (X)"
 
 ---
 
-## PC 3
+## PC 3 - International Trade
 
 {{< details "a. vocabulary" >}}
 {{< /details >}}
@@ -49,7 +49,7 @@ title: "Introduction to Economic Sciences (X)"
 
 ---
 
-## PC 4
+## PC 4 - Public Finances
 
 {{< details "a. vocabulary" >}}
 {{< /details >}}
@@ -88,7 +88,7 @@ title: "Introduction to Economic Sciences (X)"
 
 ---
 
-## PC 7
+## PC 7 - Labor Economics
 
 {{< details "a. vocabulary" >}}
 {{< /details >}}
@@ -101,7 +101,7 @@ title: "Introduction to Economic Sciences (X)"
 
 ---
 
-## PC 8
+## PC 8 - Financial Markets
 
 {{< details "a. vocabulary" >}}
 {{< /details >}}
@@ -114,7 +114,7 @@ title: "Introduction to Economic Sciences (X)"
 
 ---
 
-## PC 9
+## PC 9 - Macroeconomics
 
 {{< details "a. vocabulary" >}}
 {{< /details >}}
