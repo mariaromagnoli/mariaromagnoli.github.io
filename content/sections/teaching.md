@@ -1,2 +1,2 @@
 
-# Introduction to Economic Sciences (X)
+[Introduction to Economic Sciences (X)](/intro-economic-sciences/)
