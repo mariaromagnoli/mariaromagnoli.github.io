@@ -1,17 +1,33 @@
 ---
-title: "Introduction to Economic Sciences (X)"
+title: "Introduction aux Sciences Économiques (X)"
 ---
 
 {{< callout >}}
-**About**
-- Below, resources for the course's TDs.
-- For the micro modules (1, 2, 5, 6), contact Thomas at [thomas.bombarde@ensae.fr](thomas.bombarde@ensae.fr). 
-- For the macro modules (3, 4, 7, 8, 9) , contact Maria at [maria.romagnoli@ensae.fr](maria.romagnoli@ensae.fr).
+**À propos**
+- Pour les modules de micro (1, 2, 5, 6), contactez Thomas [ici](mailto:thomas.bombarde@ensae.fr).
+- Pour les modules de macro (3, 4, 7, 8, 9), contactez Maria  [ici](mailto:maria.romagnoli@ensae.fr)
+
 {{< /callout >}}
 
 ---
 
-## PC 1 - Consumer and Producer Theory
+## PC 3 - Commerce International
+
+{{< details "a. PC" >}}
+{{< /details >}}
+
+{{< details "b. Recherche" >}}
+- Chloé Antoine, Ricardo et écologie : [site](https://www.chloeantoine.fr/)
+{{< /details >}}
+
+{{< details "c. Autres ressources " >}}
+- [EconGraphs](https://www.econgraphs.org/topics/scarcity/)
+- [English Cheatsheet](/teaching/pc3-vocabulary.pdf)
+{{< /details >}}
+
+---
+
+## PC 4 - 
 
 {{< details "a. vocabulary" >}}
 {{< /details >}}
@@ -24,7 +40,7 @@ title: "Introduction to Economic Sciences (X)"
 
 ---
 
-## PC 2 - Markets and Market Equilibria
+## PC 7 - 
 
 {{< details "a. vocabulary" >}}
 {{< /details >}}
@@ -37,21 +53,7 @@ title: "Introduction to Economic Sciences (X)"
 
 ---
 
-## PC 3 - International Trade
-
-{{< details "a. vocabulary" >}}
-- [english cheatsheet](/teaching/pc3-vocabulary.pdf)
-{{< /details >}}
-
-{{< details "b. td material" >}}
-{{< /details >}}
-
-{{< details "c. research and real life" >}}
-{{< /details >}}
-
----
-
-## PC 4 - Public Finance
+## PC 8 - 
 
 {{< details "a. vocabulary" >}}
 {{< /details >}}
@@ -64,59 +66,7 @@ title: "Introduction to Economic Sciences (X)"
 
 ---
 
-## PC 5 - Imperfect Competition
-
-{{< details "a. vocabulary" >}}
-{{< /details >}}
-
-{{< details "b. td material" >}}
-{{< /details >}}
-
-{{< details "c. research and real life" >}}
-{{< /details >}}
-
----
-
-## PC 6 - Game Theory
-
-{{< details "a. vocabulary" >}}
-{{< /details >}}
-
-{{< details "b. td material" >}}
-{{< /details >}}
-
-{{< details "c. research and real life" >}}
-{{< /details >}}
-
----
-
-## PC 7 - Labor Economics
-
-{{< details "a. vocabulary" >}}
-{{< /details >}}
-
-{{< details "b. td material" >}}
-{{< /details >}}
-
-{{< details "c. research and real life" >}}
-{{< /details >}}
-
----
-
-## PC 8 - Financial Markets
-
-{{< details "a. vocabulary" >}}
-{{< /details >}}
-
-{{< details "b. td material" >}}
-{{< /details >}}
-
-{{< details "c. research and real life" >}}
-{{< /details >}}
-
----
-
-## PC 9 - Macroeconomics
+## PC 9 - 
 
 {{< details "a. vocabulary" >}}
 {{< /details >}}
