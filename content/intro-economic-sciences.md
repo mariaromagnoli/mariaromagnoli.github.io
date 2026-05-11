@@ -25,7 +25,6 @@ title: "Introduction aux Sciences Économiques (X)"
 {{< details "c. Food for thought " >}}
 - Costinot et al., 2016 : [papier](/teaching/costinot2016.pdf)
 - Chloé Antoine, Ricardo et écologie : [site](https://www.chloeantoine.fr/)
-- Branko Milanović :  [substack](https://branko2f7.substack.com/p/should-comparative-economics-still)
 
 {{< /details >}}
 
