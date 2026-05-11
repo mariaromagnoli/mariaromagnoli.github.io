@@ -17,33 +17,16 @@ title: "Introduction aux Sciences Économiques (X)"
 - [Slides](/teaching/PC3.pdf)
 {{< /details >}}
 
-{{< details "b. ressources" >}}
+{{< details "b. Ressources" >}}
 - [EconGraphs](https://www.econgraphs.org/topics/scarcity/)
 - [English Cheatsheet](/teaching/pc3-vocabulary.pdf)
 {{< /details >}}
 
-{{< details "c. food for thought " >}}
+{{< details "c. Food for thought " >}}
 - Costinot et al., 2016 : [papier](/teaching/costinot2016.pdf)
 - Chloé Antoine, Ricardo et écologie : [site](https://www.chloeantoine.fr/)
 - Branko Milanović :  [substack](https://branko2f7.substack.com/p/should-comparative-economics-still)
 
-
 {{< /details >}}
 
 ---
-
-## PC 4 - 
-
----
-
-## PC 7 - 
-
----
-
-## PC 8 - 
-
-
----
-
-## PC 9 - 
-
