@@ -29,3 +29,13 @@ title: "Introduction aux Sciences Économiques (X)"
 {{< /details >}}
 
 ---
+
+## PC 4 - Économie Publique
+
+
+{{< details "a. PC" >}}
+- [Slides](/teaching/PC4.pdf)
+{{< /details >}}
+
+
+---
