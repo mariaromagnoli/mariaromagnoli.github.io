@@ -6,6 +6,7 @@ title: "Introduction aux Sciences Économiques (X)"
 **À propos**
 - Pour les modules de micro (1, 2, 5, 6), contactez Thomas: [thomas.bombarde@ensae.fr](mailto:thomas.bombarde@ensae.fr).
 - Pour les modules de macro (3, 4, 7, 8, 9), contactez Maria  [maria.romagnoli@ensae.fr](mailto:maria.romagnoli@ensae.fr).
+- Le matériel de ce TD doit beaucoup à  [Chloé Antoine ](https://www.chloeantoine.fr/).
 
 {{< /callout >}}
 
